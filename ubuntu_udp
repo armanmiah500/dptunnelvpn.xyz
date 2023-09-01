@@ -7,9 +7,9 @@ DBNAME='freemoso_dptunnelvpnxyz';
 PORT_TCP='5666';
 PORT_UDP='5666';
 DOMAIN=dptunnelvpn.xyz
-CF_ZONE=9219d2a090f6a4fc4b5ff516f0815b31
-CF_ID=www.hartblock24@gmail.com
-CF_KEY=d6383782ec7acd47f80310dbfc737068bd8a2
+CF_ZONE=8ad3f0499321f61fdb20302046197f9e
+CF_ID=www.armanmim202020@gmail.com
+CF_KEY=422573fb3f0f667cd29569bb58d77dacad229
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
